@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.litho:litho-widget:0.34.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d820f91a672d0f6c15061198fca863f/jetified-litho-widget-0.34.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d820f91a672d0f6c15061198fca863f/jetified-litho-widget-0.34.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d820f91a672d0f6c15061198fca863f/jetified-litho-widget-0.34.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-widget/0.34.0/3d6f4941f9adf45f7c86dfb15436d7260e2a324b/litho-widget-0.34.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-widget/0.34.0/488ed496a358911b683c234124d5c66cef7f41e2/litho-widget-0.34.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

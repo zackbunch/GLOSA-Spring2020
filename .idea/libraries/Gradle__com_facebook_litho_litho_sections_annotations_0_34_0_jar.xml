@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.litho:litho-sections-annotations:0.34.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-sections-annotations/0.34.0/d15cf05f8665c23ed3eb114ec2fbe4b6cb1d9f68/litho-sections-annotations-0.34.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-sections-annotations/0.34.0/d8f7fbeb2958b902d6e262e1c9b1f1e0d462935/litho-sections-annotations-0.34.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-sections-annotations/0.34.0/1857c8d50083a1827ec7bf154c401a020f448c1d/litho-sections-annotations-0.34.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

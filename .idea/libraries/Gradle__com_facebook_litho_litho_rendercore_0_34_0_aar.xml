@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.litho:litho-rendercore:0.34.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5f1e5d00ea04c92a828e79a1c5f9387/jetified-litho-rendercore-0.34.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5f1e5d00ea04c92a828e79a1c5f9387/jetified-litho-rendercore-0.34.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-rendercore/0.34.0/e1738c989d7d8fa6dce26cf283a5ecf98cd56702/litho-rendercore-0.34.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-rendercore/0.34.0/5c6eb9481eccdd19b94beb45a859ce8786980b6b/litho-rendercore-0.34.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

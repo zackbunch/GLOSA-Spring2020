@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.litho:litho-sections-core:0.34.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1441f05639cd46025308eaf2a4ecd24b/jetified-litho-sections-core-0.34.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1441f05639cd46025308eaf2a4ecd24b/jetified-litho-sections-core-0.34.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1441f05639cd46025308eaf2a4ecd24b/jetified-litho-sections-core-0.34.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-sections-core/0.34.0/c6a0ff3209441140dd3a3e26feae69c7fd6810b9/litho-sections-core-0.34.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.litho/litho-sections-core/0.34.0/79d952bea6c5be2c9834251ffa9f8af1a1c8e19b/litho-sections-core-0.34.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
